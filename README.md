@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kainat 👋</h1>
+<h1 align="center">Hi there, I'm Hafiza Kainat Siraj 👋</h1>
 
 <p align="center">
   <b>MS Computer Science Student &nbsp;|&nbsp; ML & Deep Learning Researcher &nbsp;|&nbsp; Federated Learning</b><br>
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:your-emailkainatsiraj0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
