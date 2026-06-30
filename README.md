@@ -1,22 +1,22 @@
 <h1 align="center">Hi there, I'm Hafiza Kainat Siraj 👋</h1>
 
 <p align="center">
-  <b>MS Computer Science Student &nbsp;|&nbsp; ML & Deep Learning Researcher &nbsp;|&nbsp; Federated Learning</b><br>
+  <b>MS Computer Science Student &nbsp;|&nbsp; Machine Learning & Deep Learning Researcher &nbsp;<br>
   Muhammad Nawaz Shareef University of Agriculture, Multan 🇵🇰
 </p>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=kainatsiraj0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/kainat-siraj-206445203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kainat-siraj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Master's student in Computer Science specializing in **Machine Learning, Deep Learning, and Federated Learning**. My research focuses on building privacy-preserving distributed learning systems.
+I'm a Master's student in Computer Science specializing in **Machine Learning, Deep Learning, and Artifical Intelligence**. My research focuses on building Lightweight Edge-Deployable Deep Learning Framework for Seed Analysis: Quality, Quantity, and Variety Assessment.
 
-- 🔬 Currently researching **Federated Learning** with CNN-based models
+- 🔬 Currently researching **Deep Learning** with CNN-based models
 - 🎓 MS CS @ MNSUAM Multan | BS IT graduate
 - 📱 Background in **Android Development** (Java, Firebase)
 - 📊 Passionate about turning data into insights
